@@ -1,0 +1,87 @@
+<resources>
+    <string name="general_error">Något gick fel</string>
+    <string name="error_try_again">Något gick fel, försök igen.</string>
+    <string name="review_created">Recension skapad</string>
+    <string name="information_missing">Information saknas</string>
+    <string name="permission_denied">Tillåtelse nekad</string>
+    <string name="account_locked">Kontot är låst</string>
+    <string name="no_server_contact">Fick ej kontakt med server</string>
+    <string name="wrong_username_or_missing_data">Fel användarnamn eller saknad data</string>
+    <string name="wrong_password">Fel lösenord.</string>
+    <string name="tries_left">försök kvar.</string>
+    <string name="wrong_password_locked">Fel lösenord. Kontot är nu låst i fem minuter.</string>
+
+
+    <string name="item_booked">Du har nu bokat detta objekt</string>
+    <string name="message_sent">Meddelande skickat</string>
+    <string name="message_deleted">Meddelande borttaget</string>
+    <string name="post_deleted">Inlägg borttaget</string>
+    <string name="review_deleted">Recension borttagen</string>
+    <string name="booking_cancelled">Bokning avbruten</string>
+    <string name="post_created">Inlägg skapat</string>
+    <string name="username_changed">Användarnamn ändrat</string>
+    <string name="email_changed">Email ändrad</string>
+    <string name="double_click_to_remove">Dubbelklicka för att ta bort</string>
+
+
+
+    <string name="app_name">Crossdress</string>
+    <string name="email">E-mail</string>
+    <string name="username">Användarnamn</string>
+    <string name="password">Lösenord</string>
+    <string name="register_button_text">Registrera</string>
+    <string name="new_account_button_text">Skapa nytt konto</string>
+    <string name="login">Logga in</string>
+
+    <string name="logout">Logga ut</string>
+    <string name="new_email">Skriv din nya email-adress här</string>
+    <string name="new_username">Skriv ditt nya användarnamn här</string>
+    <string name="change">Byt</string>
+
+    <string name="show_posts">Visa inlägg</string>
+    <string name="show_reviews">Visa recensioner</string>
+    <string name="show_bookings">Visa bokningar</string>
+
+    <string name="book_date">Datum</string>
+    <string name="book_rubric">Rubrik</string>
+    <string name="book_size">Storlek</string>
+    <string name="book_category">Kategori</string>
+    <string name="booking_button">Boka</string>
+    <string name="review_button">Recensioner</string>
+
+
+    <string name="post_rubric">Rubrik</string>
+    <string name="post_by">Upplagd av</string>
+    <string name="post_distance">Avstånd</string>
+    <string name="post_description">Beskrivning</string>
+
+    <string name="choose_category">Välj kategori</string>
+    <string name="choose_size">Välj storlek</string>
+    <string name="chosen_category">Ingen kategori vald</string>
+    <string name="chosen_size">Ingen storlek vald</string>
+
+
+    <string name="filter_button">Filtrera</string>
+    <string name="edit">Redigera</string>
+
+    <string name="settings">Inställningar</string>
+    <string name="messages">Meddelanden</string>
+    <string name="profile">Profil</string>
+
+    <string name="create_rubric">Lägg till rubrik här</string>
+    <string name="add_image">Lägg till bild här</string>
+    <string name="add_category">Lägg till kategori här</string>
+    <string name="add_size">Lägg till storlek här</string>
+    <string name="add_description">Lägg till beskrivning här</string>
+    <string name="create">Skapa inlägg</string>
+
+    <string name="empty">Placeholder</string>
+    <string name="New">Ny</string>
+    <string name="send">Skicka</string>
+
+
+    <string name="write_message">Skriv meddelande här</string>
+    <string name="receiver">Skriv mottagare här</string>
+    <string name="kilometres_away">km bort</string>
+
+</resources>
